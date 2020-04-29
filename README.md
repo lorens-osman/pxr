@@ -10,7 +10,7 @@
   - PXR also  Directions sensitive.
 #### Documentition
 
-See [pxr_unit](https://pxr-unit.000webhostapp.com/)
+See [pxr_page](https://lorens-osman.github.io/pxr-page/)
 ### Installation
 - download `'_pxr_unit_function.scss'` file.
 - import the file to your sass project.
